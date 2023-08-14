@@ -43,7 +43,5 @@ This one is an optional video with just a great presentation by [David McCandles
 
 ## Bibliography: 
 * [Information is Beautiful - David McCandless](https://www.amazon.com/Information-Beautiful-New-David-McCandless/dp/0007492898)
-<br>
 * [The Visual Display of Quantitative Information](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/1930824130)
-<br>
 * [Story Telling with Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)
