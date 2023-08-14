@@ -17,7 +17,7 @@ In addition, as the amount of data continues to grow, the demand for data visual
 
 ## Intro to Data Visualization (0:13)
 
-![Why Visualization?](https://www.coursera.org/learn/fundamentals-of-data-visualization/lecture/ih14J/why-visualization)
+[Why Visualization?](https://www.coursera.org/learn/fundamentals-of-data-visualization/lecture/ih14J/why-visualization)
 
 After this lesson you should understand:
 - Importance of using visualization as a powerful tool to interpret datasets visually
@@ -29,12 +29,19 @@ After this lesson you should understand:
 
 ## Basics of Visualization (0:55)
 
-![Data Visualization Principles](https://www.youtube.com/watch?v=l7cAdp0f4X0)
+[Data Visualization Principles](https://www.youtube.com/watch?v=l7cAdp0f4X0)
 
 After this video you should have an understanding of the key factor that make or break a good quality visual, creating good strategies on how to formulate your graphs using key desingning principles.
-
 
 ## A Guide through existing graphs (0:10) 
 
 [Link to article](https://queue.acm.org/detail.cfm?id=1805128)
 
+## Extra - The beauty of data visualization (0:18)
+
+This one is an optional video with just a great presentation by [David McCandless](https://davidmccandless.com/).
+
+## Bibliography: 
+[Information is Beautiful - David McCandless](https://www.amazon.com/Information-Beautiful-New-David-McCandless/dp/0007492898)
+[The Visual Display of Quantitative Information](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/1930824130)
+[Story Telling with Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)
