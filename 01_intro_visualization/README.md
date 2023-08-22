@@ -33,13 +33,19 @@ After this lesson you should understand:
 
 After this video you should have an understanding of the key factor that make or break a good quality visual, creating good strategies on how to formulate your graphs using key desingning principles.
 
-## A Guide through existing graphs (0:10) 
+## A Guide through some famous plot styles (0:10) 
 
 [Link to article](https://queue.acm.org/detail.cfm?id=1805128)
 
 ## Extra - The beauty of data visualization (0:18)
 
 This one is an optional video with just a great presentation by [David McCandless](https://davidmccandless.com/).
+
+## Quiz time
+
+After checking the videos above, time to close the first week of the learning path by attempting the only, the mythical, the magical [QUIZ!](https://forms.gle/LLXwuKmgiszMBZwJ9). 
+
+Good luck!📊
 
 ## Bibliography: 
 * [Information is Beautiful - David McCandless](https://www.amazon.com/Information-Beautiful-New-David-McCandless/dp/0007492898)
