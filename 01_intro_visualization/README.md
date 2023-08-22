@@ -45,6 +45,8 @@ This one is an optional video with just a great presentation by [David McCandles
 
 After checking the videos above, time to close the first week of the learning path by attempting the only, the mythical, the magical [QUIZ!](https://forms.gle/LLXwuKmgiszMBZwJ9). 
 
+This quiz will help you test the knowledge on what we've learned in this first section. Next week, we'll start to view how to create plots using one of the most famous plotting libraries in Python - `matplotlib`!
+
 Good luck!📊
 
 ## Bibliography: 
