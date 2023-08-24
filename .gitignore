@@ -130,3 +130,6 @@ dmypy.json
 
 # unwanted folders
 data-academy-main
+
+# ignore car crash file
+02_matplotlib/data/crashes.csv
